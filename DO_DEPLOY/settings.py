@@ -61,6 +61,7 @@ TEMPLATES = [
     },
 ]
 
+
 WSGI_APPLICATION = 'DO_DEPLOY.wsgi.application'
 
 # Database
